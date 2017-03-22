@@ -158,8 +158,6 @@ def ida(start_state):
 
         costs = set()
 
-        #sys.exit()
-
 
 def dls_mod(start_state, threshold):
 
