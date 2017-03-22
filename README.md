@@ -1,4 +1,4 @@
-## 8-puzzle
+# 8-puzzle
 
 A.I - Implemented BFS, DFS, A* and IDA* to solve the n-puzzle problem. The scripts prints the results to output.txt
 
