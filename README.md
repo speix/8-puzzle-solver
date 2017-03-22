@@ -7,7 +7,7 @@ A.I - Implemented BFS, DFS, A* and IDA* to solve the n-puzzle problem. The scrip
 bfs (Breadth-First Search)
 dfs (Depth-First Search)
 ast (A-Star Search)
-ida (Iterative-Deepening-Star Search)
+ida (Iterative-Deepening-ΑStar Search)
 ```
 ### Usage
 ```
