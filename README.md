@@ -1,5 +1,5 @@
 <snippet>
-  <content>
+  <content><![CDATA[
 # 8-puzzle (python version 2.7)
 
 A.I - Implemented BFS, DFS, A* and IDA* to solve the n-puzzle problem. The scripts prints the results to output.txt
@@ -27,5 +27,5 @@ driver.py ast 0,8,7,6,5,4,3,2,1
 8. running_time: 1.80822521
 9. max_ram_usage: 7.44400000
 
-</content>  
+]]></content>  
 </snippet>
