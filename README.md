@@ -1,6 +1,6 @@
 # 8-puzzle
 
-A.I - Implemented BFS, DFS, A* and IDA* to solve the n-puzzle problem. The scripts prints the results to output.txt
+A.I - Implemented BFS, DFS, A* and IDA* to solve the n-puzzle problem. The script prints the results to output.txt
 
 ### Algorithms
 ```
